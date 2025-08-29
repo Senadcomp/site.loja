@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #fff8f0;
+}
+
+header {
+    background-color: #d84f87;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.contato {
+    text-align: center;
+    padding: 1rem;
+    background-color: #ffe9f0;
+}
+
+.contato a {
+    display: inline-block;
+    margin: 0.5rem 1rem;
+    text-decoration: none;
+    background: #d84f87;
+    color: white;
+    padding: 0.6rem 1rem;
+    border-radius: 4px;
+}
+
+.marcas {
+    text-align: center;
+    padding: 2rem;
+}
+
+.marcas h2 {
+    margin-bottom: 1rem;
+}
+
+.marcas a {
+    display: inline-block;
+    margin: 0.5rem 1rem;
+    padding: 0.6rem 1rem;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #333;
+    border: 1px solid #ccc;
+    transition: 0.3s;
+}
+
+.marcas a:hover {
+    background-color: #d84f87;
+    color: white;
+}
+
+.produtos {
+    text-align: center;
+    padding: 2rem;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.produto {
+    background: white;
+    width: 200px;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+.produto img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.produto h3 {
+    margin: 0.5rem 0;
+}
+
+.produto a {
+    background: #d84f87;
+    color: white;
+    text-decoration: none;
+    padding: 0.4rem 0.8rem;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
