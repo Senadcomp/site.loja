@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: black;
-    color: #d9a400;
+    background-color: #d84f87;
+    color: white;
     padding: 1.5rem;
     text-align: center;
 }
@@ -21,8 +21,8 @@ header {
     display: inline-block;
     margin: 0.5rem 1rem;
     text-decoration: none;
-    background: black;
-    color:#d9a400;
+    background: #d84f87;
+    color: white;
     padding: 0.6rem 1rem;
     border-radius: 4px;
 }
@@ -49,8 +49,8 @@ header {
 }
 
 .marcas a:hover {
-    background-color: black;
-    color: #d9a400;
+    background-color: #d84f87;
+    color: white;
 }
 
 .produtos {
@@ -83,8 +83,8 @@ header {
 }
 
 .produto a {
-    background: black;
-    color: #d9a400;
+    background: #d84f87;
+    color: white;
     text-decoration: none;
     padding: 0.4rem 0.8rem;
     display: inline-block;
